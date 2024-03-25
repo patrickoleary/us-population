@@ -1,0 +1,6 @@
+trame: # Default app under /index.html
+  www_modules:
+    - us_population.module
+  app: us-population
+us-population: # /us-population.html
+  app: us-population
